@@ -11,5 +11,5 @@ svrobj = svr_trainer(x_train,y_train,400,0.000000025,'gaussian',0.5);
 y = svrobj.predict(x_test);
 ```
 
-sinc(i) - http://fich.unl.edu.ar/sinc/
+sinc(i) - http://fich.unl.edu.ar/sinc/.
 Leandro Bugnon (lbugnon@sinc.unl.edu.ar)
